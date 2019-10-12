@@ -1,2 +1,4 @@
 # hello-world
-ThThis repository contains github project for eaglehack
+This repository contains github project for eaglehack
+
+Honey, where is my supersuit?
